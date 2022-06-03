@@ -4,4 +4,9 @@ Interested in improve my skills in programming
 
 I work with Python, C++, HTML, JavaScript.
 
-How to reach me: Instagram: @zeb10__ Email: euzzbs@gmail.com ( Personal )
+How to reach me: 
+Instagram: @zeb10__
+ 
+Email: 
+euzzbs@gmail.com ( Personal )
+euzebiopereirafilho1@gmail.com ( Professional )
