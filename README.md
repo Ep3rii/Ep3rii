@@ -2,7 +2,7 @@ Hi, I’m Euzébio Pereira da Silva Filho. 21 Years old
 
 Interested in improve my skills in programming
 
-I work with HTML, CSS, JavaScript, Python.
+I work with NodeJs, Python.
 
 How to reach me:
 
