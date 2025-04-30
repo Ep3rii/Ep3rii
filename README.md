@@ -1,4 +1,4 @@
-Hi, I’m Euzébio Pereira da Silva Filho. 23 Years old
+Hi, I’m Euzébio. 24 Years old
 
 Interested in improve my skills in programming
 
@@ -7,8 +7,8 @@ I have basic knowledge of databases and JavaScript.
 
 How to reach me:
 
-Instagram: @zeb10__
+Instagram: @
  
 Email: 
 euzzbs@gmail.com ( Personal )
-euzebiopereirafilho1@gmail.com ( Professional )
+~~euzebiopereirafilho1@gmail.com ( Professional )~~
