@@ -1,14 +1,10 @@
-Hi, I’m Euzébio. 24 Years old
+Ola, sou Euzébio e trabalho atualmente com servidores de dominio.
 
-Interested in improve my skills in programming
+Tenho conhecimento basico em:
+banco de dados (base SQL)
+gerenciamento de servidores
+microtik
+python
+desenvolvimento web
 
-I work with NodeJs, Python.
-I have basic knowledge of databases and JavaScript.
-
-How to reach me:
-
-Instagram: @
- 
-Email: 
-euzzbs@gmail.com ( Personal )
-~~euzebiopereirafilho1@gmail.com ( Professional )~~
+e estou buscando aprender mais sobre redes e cibersegurança. 
